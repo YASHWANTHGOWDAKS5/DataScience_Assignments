@@ -1,2 +1,2 @@
 # DataScience_Assignments
-My College (MIT Mysore) data Science assignments
+My College data Science assignments
